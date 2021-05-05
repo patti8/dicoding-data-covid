@@ -1,0 +1,22 @@
+.container {
+    padding: 16px;
+}
+.full-width {
+    width: 100%;
+}
+
+.bg-primary {
+    background-color: #ce1212 !important;
+}
+
+.bg-secondary {
+    background-color: #eeebdd !important;
+}
+
+.btn-primary {
+    background-color: #29bb89;
+}
+
+.btn-success {
+    background-color: #e6dd3b;
+}
